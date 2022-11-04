@@ -3,4 +3,6 @@
 ### Heading level 3
 
 **This is bold text**
-theme: Midnight
+#Build settings
+markdown: kramdown
+theme: midnight
