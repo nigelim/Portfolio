@@ -20,8 +20,8 @@
 <h2>📋Data Analytics Course Certificates</h2>
 
 - [View full list on LinkedIn](https://www.linkedin.com/in/nigelim1996/)</b>
-- [1. Vertical Institute Bootcamp Certificate (jpg.)](https://github.com/joshmadakor1/DecrypterPOC)
-- [2. Google Data Analytics Professional Certificate (jpg.)](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- [1. Vertical Institute Bootcamp Certificate)](https://github.com/joshmadakor1/DecrypterPOC)
+- [2. Google Data Analytics Professional Certificate](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - [3. Udemy - Python Data Analysis and Visualization](https://docs.google.com/document/d/e/2PACX-1vRA_Umhtk5oFW7pqCKN6ejbUjcFthbPFghBgs7ZDQBcT0lqVEQ2crSfbe18t4Ogg4vsOUmdUZKvz8HC/pub)
   
 
