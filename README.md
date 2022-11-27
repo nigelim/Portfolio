@@ -2,9 +2,9 @@
 
 <h2>📊 Data Analytics Projects:</h2>
 
-- <b>Project 1: Capstone Project Using Tableau</b>
+- <b>Project 1: Vertical Institute Bootcamp - Capstone Project Using Tableau</b>
   - [Using Tableau for Data Visualization](https://github.com/nigelninetee6/Capstone-Project---Tableau#capstone-project---tableau)
-- <b>Project 2: Case Study Capstone Project using SQL/MS Excel</b>
+- <b>Project 2: Google Data Analytics Course - Case Study Capstone Project using SQL/MS Excel</b>
   - [Case Study on Bike Renting Companies](https:
   
 <h2>📈Sub-Projects:</h2>
