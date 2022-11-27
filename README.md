@@ -10,7 +10,7 @@
 <h2>📈Sub-Projects:</h2>
 
 - <b>Sub-Project 1: Python Data Analysis and Visualization</b>
-  - [Python Data Visualization - Heatmaps, Boxplot, KDE](https://github.com/nigelninetee6/Heatmaps)
+  - [Python Data Visualization with Graphs/Plots](https://github.com/nigelninetee6/Heatmaps)
 - <b>Sub-Project 2: Data Analytics with R</b>
 
 <h2>📝Personal Projects:</h2>
@@ -20,7 +20,7 @@
 <h2>📋Data Analytics Course Certificates</h2>
 
 - [View full list on LinkedIn](https://www.linkedin.com/in/nigelim1996/)</b>
-- [1. Vertical Institute Bootcamp Certificate)](https://github.com/joshmadakor1/DecrypterPOC)
+- [1. Vertical Institute Bootcamp Certificate](https://github.com/joshmadakor1/DecrypterPOC)
 - [2. Google Data Analytics Professional Certificate](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - [3. Udemy - Python Data Analysis and Visualization](https://docs.google.com/document/d/e/2PACX-1vRA_Umhtk5oFW7pqCKN6ejbUjcFthbPFghBgs7ZDQBcT0lqVEQ2crSfbe18t4Ogg4vsOUmdUZKvz8HC/pub)
   
