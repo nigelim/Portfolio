@@ -3,7 +3,7 @@
 <h2>📊 Data Analytics Projects:</h2>
 
 - <b>Project 1: Vertical Institute Bootcamp - Capstone Project Using Tableau</b>
-  - [Using Tableau for Data Visualization](https://github.com/nigelninetee6/Capstone-Project---Tableau#capstone-project---tableau)
+  - [Data on Bank's Credit Card Attrition Rate](https://public.tableau.com/views/CapstoneProject_16707572316250/CapstoneProject?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - <b>Project 2: Google Data Analytics Course - Case Study Capstone Project using SQL/MS Excel</b>
   - [Case Study on Bike Renting Companies](https:
   
