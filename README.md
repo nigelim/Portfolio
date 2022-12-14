@@ -23,7 +23,7 @@
 - [View full list on LinkedIn](https://www.linkedin.com/in/nigelim1996/)</b>
 - [1. Vertical Institute Bootcamp Certificate](https://github.com/joshmadakor1/DecrypterPOC)
 - [2. Google Data Analytics Professional Certificate](https://coursera.org/share/66c5ca4c0d5721055a8c3a23c7aceda0)
-- [3. Udemy - Python Data Analysis and Visualization](https://docs.google.com/document/d/e/2PACX-1vRA_Umhtk5oFW7pqCKN6ejbUjcFthbPFghBgs7ZDQBcT0lqVEQ2crSfbe18t4Ogg4vsOUmdUZKvz8HC/pub)
+- [3. Udemy - Python Data Analysis and Visualization](https://ude.my/UC-20cd132f-d307-4527-804f-bf4b83b66d4e)
   
 
 <h2>📺 Popular YouTube Videos</h2>
