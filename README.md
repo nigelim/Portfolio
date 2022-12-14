@@ -11,7 +11,7 @@
 <h2>📈Sub-Projects:</h2>
 
 - <b>Sub-Project 1: Python Data Analysis and Visualization</b>
-  - [Python Data Visualization with Graphs/Plots](https://github.com/nigelninetee6/Heatmaps)
+  - [Python Data Visualization with Graphs/Plots](https://github.com/nigelim/Python-Data-Analysis-Visualization)
 - <b>Sub-Project 2: Data Analytics with R</b>
 
 <h2>📝Personal Projects:</h2>
