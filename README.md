@@ -12,11 +12,6 @@
 
 - <b>Sub-Project 1: Python Data Analysis and Visualization</b>
   - [Python Data Visualization with Graphs/Plots](https://github.com/nigelim/Python-Data-Analysis-Visualization)
-- <b>Sub-Project 2: Data Analytics with R</b>
-
-<h2>📝Personal Projects:</h2>
- - <b>Data Scrapping from Gaming website</b>
-
 
 <h2>📋Data Analytics Course Certificates</h2>
 
@@ -24,15 +19,8 @@
 - [1. Vertical Institute Bootcamp Certificate](https://github.com/joshmadakor1/DecrypterPOC)
 - [2. Google Data Analytics Professional Certificate](https://coursera.org/share/66c5ca4c0d5721055a8c3a23c7aceda0)
 - [3. Udemy - Python Data Analysis and Visualization](https://ude.my/UC-20cd132f-d307-4527-804f-bf4b83b66d4e)
-  
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
