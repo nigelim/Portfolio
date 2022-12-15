@@ -16,7 +16,7 @@
 <h2>📋Data Analytics Course Certificates</h2>
 
 - [View full list on LinkedIn](https://www.linkedin.com/in/nigelim1996/)</b>
-- [1. Vertical Institute Bootcamp Certificate](https://github.com/joshmadakor1/DecrypterPOC)
+- [1. Vertical Institute Bootcamp Certificate] - (Pending)
 - [2. Google Data Analytics Professional Certificate](https://coursera.org/share/66c5ca4c0d5721055a8c3a23c7aceda0)
 - [3. Udemy - Python Data Analysis and Visualization](https://ude.my/UC-20cd132f-d307-4527-804f-bf4b83b66d4e)
 
@@ -28,7 +28,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/nigelim1996/
-[email]: https://www.nigelim1996@outlook.com/
+[email]: mailto:nigelim1996@outlook.com/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
