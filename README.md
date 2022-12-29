@@ -7,15 +7,16 @@
 - <b>Project 2: Google Data Analytics Course - Case Study Capstone Project using SQL/MS Excel & Tableau</b>
   - [Case Study on Bike Renting Company - Cyclistic](https://github.com/nigelim/Google-Capstone-Project)
   
+<h2>📉Personal Projects:</h2>
+
+- <b>Personal Project 1: Data Analysis & Study on Video Game Sales Dataset</b>
+  - [Video Game Sales Project](https://github.com/nigelim/Video-Game-Sales)
+  
 <h2>📈Sub-Projects:</h2>
 
 - <b>Sub-Project 1: Python Data Analysis and Visualization</b>
   - [Python Data Visualization with Graphs/Plots](https://github.com/nigelim/Python-Data-Analysis-Visualization)
   
-  <h2>📉Personal Projects:</h2>
-
-- <b>Personal Project 1: Data Analysis & Study on Video Game Sales Dataset</b>
-  - [Video Game Sales Project](https://github.com/nigelim/Video-Game-Sales)
 
 <h2>📋Data Analytics Course Certificates</h2>
 
