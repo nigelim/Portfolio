@@ -21,7 +21,7 @@
 <h2>📋Data Analytics Course Certificates</h2>
 
 - [View full list on LinkedIn](https://www.linkedin.com/in/nigelim1996/)</b>
-- [1. Vertical Institute Bootcamp Certificate] - (Pending)
+- [1. Vertical Institute - Data Analytics Bootcamp Certificate](https://elearn.verticalinstitute.com/certificates/v8zd8zYV/file)
 - [2. Coursera - Google Data Analytics Professional Certificate](https://coursera.org/share/66c5ca4c0d5721055a8c3a23c7aceda0)
 - [3. Udemy - Python Data Analysis and Visualization](https://ude.my/UC-20cd132f-d307-4527-804f-bf4b83b66d4e)
 
