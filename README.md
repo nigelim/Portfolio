@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nigel! <br/><a href="https://github.com/nigelninetee6/nigelninetee6.github.io">Aspiring Data Analyst</a>
+<h1>Hi, I'm Nigel! <br/>
 
 <h2>📊 Data Analytics Projects:</h2>
 
